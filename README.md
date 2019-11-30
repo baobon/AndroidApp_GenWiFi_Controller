@@ -9,8 +9,6 @@
 * I have developed this app all by myself and I would be happy to share the APK of the app for testing purposes.
 ![WiFi Motor Controller](https://raw.githubusercontent.com/baobon/AndroidApp_GenWiFi_Controller/master/Img/nexus5x_1.png)
 ![WiFi Motor Controller](https://raw.githubusercontent.com/baobon/AndroidApp_GenWiFi_Controller/master/Img/nexus5x_3.png)
-![WiFi Motor Controller](https://raw.githubusercontent.com/baobon/AndroidApp_GenWiFi_Controller/master/Img/nexus5x_4.png)
-![WiFi Motor Controller](https://raw.githubusercontent.com/baobon/AndroidApp_GenWiFi_Controller/master/Img/nexus5x_5.png)
 
 #### Prequisites
 
